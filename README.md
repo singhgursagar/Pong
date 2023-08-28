@@ -1,6 +1,7 @@
 # Pong
 
-Pong Game in Java
+Pong Game in Java.
+
 The Pong game is a classic arcade-style table tennis simulation developed using Java. The game captures the essence of the original Pong while incorporating modern programming paradigms and design.
 
 Features:
